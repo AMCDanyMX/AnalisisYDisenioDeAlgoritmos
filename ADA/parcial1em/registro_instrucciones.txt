@@ -1,0 +1,47 @@
+insertionSort
+caso 1 array 5 instrucciones 12
+caso 2 array 10 instrucciones 28
+caso 3 array 20 instrucciones 132
+caso 4 array 50 instrucciones 814
+caso 5 array 100 instrucciones 2564
+caso 6 array 200 instrucciones 10059
+caso 7 array 300 instrucciones 22330
+caso 8 array 400 instrucciones 38428
+caso 9 array 500 instrucciones 63620
+caso 10 array 600 instrucciones 92426
+caso 11 array 700 instrucciones 120289
+caso 12 array 800 instrucciones 162242
+caso 13 array 900 instrucciones 201668
+caso 14 array 1000 instrucciones 254182
+
+BubbleSort
+caso 1 array 5 instrucciones 16
+caso 2 array 10 instrucciones 38
+caso 3 array 20 instrucciones 226
+caso 4 array 50 instrucciones 1530
+caso 5 array 100 instrucciones 4930
+caso 6 array 200 instrucciones 19720
+caso 7 array 300 instrucciones 44062
+caso 8 array 400 instrucciones 76058
+caso 9 array 500 instrucciones 126242
+caso 10 array 600 instrucciones 183654
+caso 11 array 700 instrucciones 239180
+caso 12 array 800 instrucciones 322886
+caso 13 array 900 instrucciones 401538
+caso 14 array 1000 instrucciones 506366
+
+MergeSort
+caso 1 array 5 instrucciones 16
+caso 2 array 10 instrucciones 36
+caso 3 array 20 instrucciones 76
+caso 4 array 50 instrucciones 196
+caso 5 array 100 instrucciones 396
+caso 6 array 200 instrucciones 796
+caso 7 array 300 instrucciones 1196
+caso 8 array 400 instrucciones 1596
+caso 9 array 500 instrucciones 1996 
+caso 10 array 600 instrucciones 2396
+caso 11 array 700 instrucciones 2796
+caso 12 array 800 instrucciones 3196
+caso 13 array 900 instrucciones 3596
+caso 14 array 1000 instrucciones 3996
